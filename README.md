@@ -1,7 +1,7 @@
  👋 Hi, I’m Mina!
   
  I'm a Computer Science student at CSUN focused on:
-  - 💻 Java and backend development
+  - 💻 Java and Python
   - 📊 Data analysis and AI projects
 
  📫 How to reach me:
