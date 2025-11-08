@@ -6,7 +6,7 @@
 
  📫 How to reach me:
   - LinkedIn: [linkedin.com/in/minamoqadasi](https://linkedin.com/in/minamoqadasi)
-  - Email: mina.moqadasi-mehrizi.134@my.csun.edu
+  - Email: moqadasi.mina@gmail.com
 
 
 
