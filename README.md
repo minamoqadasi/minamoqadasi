@@ -1,11 +1,10 @@
- 👋 Hi, I’m Mina!
+ Hi, I’m Mina!
   
  I'm a Computer Science student at CSUN focused on:
-  - 💻 Java and Python
-  - 📊 Data analysis and AI projects
-
- 📫 How to reach me:
-  - LinkedIn: [linkedin.com/in/minamoqadasi](https://linkedin.com/in/minamoqadasi)
+  - Java and Python
+  - Data analysis and Software
+ How to reach me:
+  - LinkedIn: (https://www.linkedin.com/in/mina-moqadasi-234151a4/)
   - Email: moqadasi.mina@gmail.com
 
 
