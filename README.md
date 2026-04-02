@@ -3,6 +3,7 @@
  I'm a Computer Science student at CSUN focused on:
   - Mostly working with Java, Python, and SQL
   - Data analysis and Software
+ 
  How to reach me:
   - LinkedIn: (https://www.linkedin.com/in/mina-moqadasi-234151a4/)
   - Email: moqadasi.mina@gmail.com
